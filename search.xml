@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2021/12/04/test/</url>
-    <content><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">    System.out.println(<span class="string">&quot;hello world&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>&lt;%- js(‘script.js’) %&gt;</p>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>证券从业</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2021/12/06/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -33,9 +19,29 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/2021/12/08/test/script/</url>
-    <content><![CDATA[
-alert('hello world');]]></content>
+    <title>第一节 证券市场法律法规体系</title>
+    <url>/2021/12/04/stock/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
+    <content><![CDATA[<h3 id="法的概念"><a href="#法的概念" class="headerlink" title="法的概念"></a>法的概念</h3><pre><code>法是由国家制定或认可并由国家强制力保证实施的，反映特定物质生活条件所决定的统治阶级意志，以权利和义务为内容，以确认、保护和发展对统治阶级有利的社会关系和社会秩序为目的的规范系统。
+</code></pre>
+<span id="more"></span>
+
+<h3 id="法的特征"><a href="#法的特征" class="headerlink" title="法的特征"></a>法的特征</h3><pre><code>1. 法是调整人们的行为或社会关系的规范，具有规范性。
+2. 法是由国家制定或认可的社会规范，具有国家意志性。
+3. 法是权力和义务为内容的社会规范。
+4. 法是依靠国家强制力来保障实施的规范，具有国家强制性。
+</code></pre>
+<h3 id="法律关系的概念"><a href="#法律关系的概念" class="headerlink" title="法律关系的概念"></a>法律关系的概念</h3><pre><code>法律关系是以法律规范为基础形成的、以权利和义务为内容的社会关系。
+</code></pre>
+<h3 id="法律关系的特征"><a href="#法律关系的特征" class="headerlink" title="法律关系的特征"></a>法律关系的特征</h3><pre><code>1. 法律关系是以法律规范为基础形成的一种社会关系。
+2. 法律关系是以权利和义务为内容的社会关系。
+3. 法律关系是法律主体之间的社会关系。
+</code></pre>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>证券从业</tag>
+      </tags>
   </entry>
 </search>
