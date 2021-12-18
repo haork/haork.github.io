@@ -147,8 +147,7 @@
   <entry>
     <title>第一节 证券市场法律法规体系</title>
     <url>/2021/12/04/stock/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
-    <content><![CDATA[<h2 id="法的概念"><a href="#法的概念" class="headerlink" title="法的概念"></a>法的概念</h2><p>人生一世，极不容易<br>登天难，求人更难<br>黄连苦，无钱更苦<br>江湖险，人心更险<br>春冰薄，人情更薄<br>但行好事，莫问前程</p>
-<script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
+    <content><![CDATA[<h2 id="法的概念"><a href="#法的概念" class="headerlink" title="法的概念"></a>法的概念</h2><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学习</category>
         <category>证券从业</category>
@@ -277,7 +276,15 @@
 <li><p>采集摄像头</p>
 <figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">ffmpeg -f avfoundation -video_device_index 0 -r 30 -s 1280x720 -i :0 out.mp4</span><br></pre></td></tr></table></figure></li>
 </ul>
-<script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
+<h3 id="ffplay命令"><a href="#ffplay命令" class="headerlink" title="ffplay命令"></a>ffplay命令</h3><ul>
+<li><p>播放test.mp4，播放完自动退出</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">ffplay -autoexit test.mp4</span><br></pre></td></tr></table></figure></li>
+<li><p>以320*240的大小播放视频</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">ffplay -x 320 -y 240 test.mp4</span><br></pre></td></tr></table></figure></li>
+<li><p>播放双通道32k的PCM音频数据</p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">ffplay -f s16le -ar 32000 -ac 2 test.pcm</span><br></pre></td></tr></table></figure></li>
+</ul>
+<h3 id="ffprobe"><a href="#ffprobe" class="headerlink" title="ffprobe"></a>ffprobe</h3><h3 id="ffserver"><a href="#ffserver" class="headerlink" title="ffserver"></a>ffserver</h3><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>技术</category>
       </categories>
