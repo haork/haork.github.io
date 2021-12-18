@@ -284,7 +284,7 @@
 <li><p>播放双通道32k的PCM音频数据</p>
 <figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">ffplay -f s16le -ar 32000 -ac 2 test.pcm</span><br></pre></td></tr></table></figure></li>
 </ul>
-<h3 id="ffprobe"><a href="#ffprobe" class="headerlink" title="ffprobe"></a>ffprobe</h3><h3 id="ffserver"><a href="#ffserver" class="headerlink" title="ffserver"></a>ffserver</h3><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
+<h3 id="ffprobe命令"><a href="#ffprobe命令" class="headerlink" title="ffprobe命令"></a>ffprobe命令</h3><h3 id="ffserver命令"><a href="#ffserver命令" class="headerlink" title="ffserver命令"></a>ffserver命令</h3><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>技术</category>
       </categories>
