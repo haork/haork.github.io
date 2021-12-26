@@ -133,25 +133,34 @@
 公司从事经营活动，必须遵守法律、行政法规，遵守社会公德、商业道德，诚实守信，接受政府和社会公众的监督，承担社会责任。
 </p>
 
-<h3 id="分公司及其法律地位"><a href="#分公司及其法律地位" class="headerlink" title="分公司及其法律地位"></a>分公司及其法律地位</h3><p>分公司是指业务、资金、人事等方面受本公司管辖而不具有法人资格等分支机构。分公司不具有法人资格。</p>
+<h3 id="分公司及其法律地位"><a href="#分公司及其法律地位" class="headerlink" title="分公司及其法律地位"></a>分公司及其法律地位</h3><p style="text-indent:2em">
+分公司是指业务、资金、人事等方面受本公司管辖而不具有法人资格等分支机构。分公司不具有法人资格。
+</p>
+
+<p>分公司的非独立性表现在：</p>
+<ol>
+<li>分公司不具有法人资格，不能独立享有权利、承担义务，其一切行为的后果及责任由总公司承担。</li>
+<li>分公司没有独立的公司名称和章程，其对外从事经营活动必须以总公司的名义，遵守总公司的章程。</li>
+<li>分公司在人事、经营上没有自主权，其主要活动及主要管理人员由总公司决定并委任，并根据总公司的委托或授权进行业务活动。</li>
+<li>分公司没有独立的财产，其所有资产属于总公司，并作为总公司的资产列入总公司的资产负债表中。</li>
+</ol>
+<h3 id="子公司及其法律地位"><a href="#子公司及其法律地位" class="headerlink" title="子公司及其法律地位"></a>子公司及其法律地位</h3><p style="text-indent:2em">
+子公司是指一定数额的股份被另一公司控制或依据协议被另一公司控制、支配的公司。子公司具有独立的法人人格。但子公司的重大决策仍需母公司决定。
+</p>
+
+<p>子公司的独立性表现在：</p>
+<ol>
+<li>拥有独立的公司名称和公司章程。</li>
+<li>拥有独立的组织架构。</li>
+<li>拥有独立的财产，能够自负盈亏，独立核算。</li>
+<li>以自己的名义开展经营活动，从事各类民事活动。</li>
+<li>独立承担公司行为带来的后果和责任。 </li>
+</ol>
 <h2 id="合伙企业法"><a href="#合伙企业法" class="headerlink" title="合伙企业法"></a>合伙企业法</h2><h2 id="证券法"><a href="#证券法" class="headerlink" title="证券法"></a>证券法</h2><h2 id="证券投资基金法"><a href="#证券投资基金法" class="headerlink" title="证券投资基金法"></a>证券投资基金法</h2><h2 id="期货交易管理条例"><a href="#期货交易管理条例" class="headerlink" title="期货交易管理条例"></a>期货交易管理条例</h2><h2 id="证券公司监督管理条例"><a href="#证券公司监督管理条例" class="headerlink" title="证券公司监督管理条例"></a>证券公司监督管理条例</h2><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>学习</category>
         <category>证券从业</category>
         <category>法律法规</category>
-      </categories>
-      <tags>
-        <tag>证券从业</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一节 证券市场法律法规体系</title>
-    <url>/2021/12/04/stock/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%AC%AC%E4%B8%80%E7%AB%A0/</url>
-    <content><![CDATA[<h2 id="法的概念"><a href="#法的概念" class="headerlink" title="法的概念"></a>法的概念</h2><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>学习</category>
-        <category>证券从业</category>
-        <category>基础知识</category>
       </categories>
       <tags>
         <tag>证券从业</tag>
@@ -284,7 +293,9 @@
 <li><p>播放双通道32k的PCM音频数据</p>
 <figure class="highlight sh"><table><tr><td class="code"><pre><span class="line">ffplay -f s16le -ar 32000 -ac 2 test.pcm</span><br></pre></td></tr></table></figure></li>
 </ul>
-<h3 id="ffprobe命令"><a href="#ffprobe命令" class="headerlink" title="ffprobe命令"></a>ffprobe命令</h3><h3 id="ffserver命令"><a href="#ffserver命令" class="headerlink" title="ffserver命令"></a>ffserver命令</h3><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
+<h3 id="ffprobe命令"><a href="#ffprobe命令" class="headerlink" title="ffprobe命令"></a>ffprobe命令</h3><p>To be continued…😂</p>
+<h3 id="ffserver命令"><a href="#ffserver命令" class="headerlink" title="ffserver命令"></a>ffserver命令</h3><p>To be continued…😂</p>
+<script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>技术</category>
       </categories>
@@ -301,6 +312,268 @@
 
 <blockquote class="blockquote-center">
 <p>陋室空堂，当年笏满床；<br>衰草枯杨，曾为歌舞场。<br>蛛丝儿结满雕梁，绿纱今又糊在蓬窗上。<br>说什么脂正浓、粉正香，如何两鬃又成霜？<br>昨日黄土垅头送白骨，今宵红绡帐底卧鸳鸯。<br>金满箱，银满箱，转眼乞丐人皆谤。<br>正叹他人命不长，哪知自己归来丧！<br>训有方 ，保不定日后做强梁；<br>择膏粱，谁承望流落在烟花巷！<br>因嫌纱帽小，致使锁枷扛；<br>昨怜破袄寒，今嫌紫蟒长。<br>乱烘烘你方唱罢我登场，反认他乡是故乡。<br>甚荒唐，到头来都是为他人做嫁衣裳。</p>
+
+</blockquote>
+<script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>红杏杯</title>
+    <url>/2021/12/16/other/%E7%BA%A2%E6%9D%8F%E6%9D%AF/</url>
+    <content><![CDATA[<blockquote class="blockquote-center">
+<h2 id="白雪歌送武判官归京"><a href="#白雪歌送武判官归京" class="headerlink" title="白雪歌送武判官归京"></a>白雪歌送武判官归京</h2><p>岑参 [唐]</p>
+<blockquote>
+<p>北风卷地白草折，胡天八月即飞雪。<br>忽如一夜春风来，千树万树梨花开。<br>散入珠帘湿罗幕，狐裘不暖锦衾薄。<br>将军角弓不得控，都护铁衣冷难着。<br>瀚海阑干百丈冰，愁云惨淡万里凝。<br>中军置酒饮归客，胡琴琵琶与羌笛。<br>纷纷暮雪下辕门，风掣红旗冻不翻。<br>轮台东门送君去，去时雪满天山路。<br>山回路转不见君，雪上空留马行处。</p>
+</blockquote>
+
+</blockquote> 
+
+<span id="more"></span>
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="暮江吟"><a href="#暮江吟" class="headerlink" title="暮江吟"></a>暮江吟</h2><p>白居易 [唐]</p>
+<blockquote>
+<p>一道残阳铺水中，半江瑟瑟半江红。<br>可怜九月初三夜，露似真珠月似弓。</p>
+</blockquote>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="忆江南"><a href="#忆江南" class="headerlink" title="忆江南"></a>忆江南</h2><p>白居易 [唐]</p>
+<blockquote>
+<p>江南好，风景旧曾谙。<br>日出江花红胜火，<br>春来江水绿如蓝。<br>能不忆江南？<br>江南忆，最忆是杭州。<br>山寺月中寻桂子，<br>郡亭枕上看潮头。<br>何日更重游！<br>江南忆，其次忆吴宫。<br>吴酒一杯春竹叶，<br>吴娃双舞醉芙蓉。<br>早晚复相逢！</p>
+</blockquote>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="钱塘湖春行"><a href="#钱塘湖春行" class="headerlink" title="钱塘湖春行"></a>钱塘湖春行</h2><p>白居易 [唐]</p>
+<blockquote>
+<p>孤山寺北贾亭西，水面初平云脚低。<br>几处早莺争暖树，谁家新燕啄春泥。<br>乱花渐欲迷人眼，浅草才能没马蹄。<br>最爱湖东行不足，绿杨阴里白沙堤。</p>
+</blockquote>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="琵琶行"><a href="#琵琶行" class="headerlink" title="琵琶行"></a>琵琶行</h2><p>白居易 [唐]</p>
+<blockquote>
+<p>浔阳江头夜送客，枫叶荻花秋瑟瑟。<br>主人下马客在船，举酒欲饮无管弦。<br>醉不成欢惨将别，别时茫茫江浸月。<br>忽闻水上琵琶声，主人忘归客不发。<br>寻声暗问弹者谁，琵琶声停欲语迟。<br>移船相近邀相见，添酒回灯重开宴。<br>千呼万唤始出来，犹抱琵琶半遮面。<br>转轴拨弦三两声，未成曲调先有情。<br>弦弦掩抑声声思，似诉平生不得志。<br>低眉信手续续弹，说尽心中无限事。<br>轻拢慢捻抹复挑，初为《霓裳》后《六幺》。<br>大弦嘈嘈如急雨，小弦切切如私语。<br>嘈嘈切切错杂弹，大珠小珠落玉盘。<br>间关莺语花底滑，幽咽泉流冰下难。<br>冰泉冷涩弦凝绝，凝绝不通声暂歇。<br>别有幽愁暗恨生，此时无声胜有声。<br>银瓶乍破水浆迸，铁骑突出刀枪鸣。<br>曲终收拨当心画，四弦一声如裂帛。<br>东船西舫悄无言，唯见江心秋月白。<br>沉吟放拨插弦中，整顿衣裳起敛容。<br>自言本是京城女，家在虾蟆陵下住。<br>十三学得琵琶成，名属教坊第一部。<br>曲罢曾教善才服，妆成每被秋娘妒。<br>五陵年少争缠头，一曲红绡不知数。<br>钿头银篦击节碎，血色罗裙翻酒污。<br>今年欢笑复明年，秋月春风等闲度。<br>弟走从军阿姨死，暮去朝来颜色故。<br>门前冷落鞍马稀，老大嫁作商人妇。<br>商人重利轻别离，前月浮梁买茶去。<br>去来江口守空船，绕船月明江水寒。<br>夜深忽梦少年事，梦啼妆泪红阑干。<br>我闻琵琶已叹息，又闻此语重唧唧。<br>同是天涯沦落人，相逢何必曾相识！<br>我从去年辞帝京，谪居卧病浔阳城。<br>浔阳地僻无音乐，终岁不闻丝竹声。<br>住近湓江地低湿，黄芦苦竹绕宅生。<br>其间旦暮闻何物？杜鹃啼血猿哀鸣。<br>春江花朝秋月夜，往往取酒还独倾。<br>岂无山歌与村笛？呕哑嘲哳难为听。<br>今夜闻君琵琶语，如听仙乐耳暂明。<br>莫辞更坐弹一曲，为君翻作《琵琶行》。<br>感我此言良久立，却坐促弦弦转急。<br>凄凄不似向前声，满座重闻皆掩泣。<br>座中泣下谁最多？江州司马青衫湿。</p>
+</blockquote>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="凉州馆中与诸判官夜集"><a href="#凉州馆中与诸判官夜集" class="headerlink" title="凉州馆中与诸判官夜集"></a>凉州馆中与诸判官夜集</h2><p>岑参 [唐]<br>弯弯月出挂城头，城头月出照凉州。<br>凉州七里十万家，胡人半解弹琵琶。<br>琵琶一曲肠堪断，风萧萧兮夜漫漫。<br>河西幕中多故人，故人别来三五春。<br>花门楼前见秋草，岂能贫贱相看老。<br>一生大笑能几回，斗酒相逢须醉倒。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="黄鹤楼"><a href="#黄鹤楼" class="headerlink" title="黄鹤楼"></a>黄鹤楼</h2><p>崔颢 [唐]<br>昔人已乘黄鹤去，此地空余黄鹤楼。<br>黄鹤一去不复返，白云千载空悠悠。<br>晴川历历汉阳树，芳草萋萋鹦鹉洲。<br>日暮乡关何处是？烟波江上使人愁。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="题都城南庄"><a href="#题都城南庄" class="headerlink" title="题都城南庄"></a>题都城南庄</h2><p>崔护 [唐]<br>去年今日此门中，人面桃花相映红。<br>人面不知何处去，桃花依旧笑春风。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="登第报家人"><a href="#登第报家人" class="headerlink" title="登第报家人"></a>登第报家人</h2><p>董德元 [宋]<br>御笔封题墨未乾，君恩重许拜金銮。<br>故乡若问登科事，便是当初老榜官。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="春望"><a href="#春望" class="headerlink" title="春望"></a>春望</h2><p>杜甫 [唐]<br>国破山河在，城春草木深。<br>感时花溅泪，恨别鸟惊心。<br>烽火连三月，家书抵万金。<br>白头搔更短，浑欲不胜簪。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="登高"><a href="#登高" class="headerlink" title="登高"></a>登高</h2><p>杜甫 [唐]<br>风急天高猿啸哀，渚清沙白鸟飞回。<br>无边落木萧萧下，不尽长江滚滚来。<br>万里悲秋常作客，百年多病独登台。<br>艰难苦恨繁霜鬓，潦倒新停浊酒杯。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="奉赠韦左丞丈二十二韵"><a href="#奉赠韦左丞丈二十二韵" class="headerlink" title="奉赠韦左丞丈二十二韵"></a>奉赠韦左丞丈二十二韵</h2><p>杜甫 [唐]<br>纨绔不饿死，儒冠多误身。丈人试静听，贱子请具陈。<br>甫昔少年日，早充观国宾。读书破万卷，下笔如有神。<br>赋料扬雄敌，诗看子建亲。李邕求识面，王翰愿卜邻。<br>自谓颇挺出，立登要路津。致君尧舜上，再使风俗淳。<br>此意竟萧条，行歌非隐沦。骑驴十三载，旅食京华春。<br>朝扣富儿门，暮随肥马尘。残杯与冷炙，到处潜悲辛。<br>主上顷见征，欻然欲求伸。青冥却垂翅，蹭蹬无纵鳞。<br>甚愧丈人厚，甚知丈人真。每于百僚上，猥颂佳句新。<br>窃效贡公喜，难甘原宪贫。焉能心怏怏，只是走踆踆。<br>今欲东入海，即将西去秦。尚怜终南山，回首清渭滨。<br>常拟报一饭，况怀辞大臣。白鸥没浩荡，万里谁能驯？</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="江南逢李龟年"><a href="#江南逢李龟年" class="headerlink" title="江南逢李龟年"></a>江南逢李龟年</h2><p>杜甫 [唐]<br>岐王宅里寻常见，崔九堂前几度闻。<br>正是江南好风景，落花时节又逢君。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="江畔独步寻花·其六"><a href="#江畔独步寻花·其六" class="headerlink" title="江畔独步寻花·其六"></a>江畔独步寻花·其六</h2><p>杜甫 [唐]<br>黄四娘家花满蹊，千朵万朵压枝低。<br>留连戏蝶时时舞，自在娇莺恰恰啼。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="绝句四首"><a href="#绝句四首" class="headerlink" title="绝句四首"></a>绝句四首</h2><p>杜甫 [唐]<br>堂西长笋别开门，堑北行椒却背村。<br>梅熟许同朱老吃，松高拟对阮生论。<br>欲作鱼梁云复湍，因惊四月雨声寒。<br>青溪先有蛟龙窟，竹石如山不敢安。<br>两个黄鹂鸣翠柳，一行白鹭上青天。<br>窗含西岭千秋雪，门泊东吴万里船。<br>药条药甲润青青，色过棕亭入草亭。<br>苗满空山惭取誉，根居隙地怯成形。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="客至"><a href="#客至" class="headerlink" title="客至"></a>客至</h2><p>杜甫 [唐]<br>舍南舍北皆春水，但见群鸥日日来。<br>花径不曾缘客扫，蓬门今始为君开。<br>盘飧市远无兼味，樽酒家贫只旧醅。<br>肯与邻翁相对饮，隔篱呼取尽余杯。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="闻军官收河南河北"><a href="#闻军官收河南河北" class="headerlink" title="闻军官收河南河北"></a>闻军官收河南河北</h2><p>杜甫 [唐]<br>剑外忽传收蓟北，初闻涕泪满衣裳。<br>却看妻子愁何在，漫卷诗书喜欲狂。<br>白日放歌须纵酒，青春作伴好还乡。<br>即从巴峡穿巫峡，便下襄阳向洛阳。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="月夜忆舍弟"><a href="#月夜忆舍弟" class="headerlink" title="月夜忆舍弟"></a>月夜忆舍弟</h2><p>杜甫 [唐]<br>戍鼓断人行，边秋一雁声。<br>露从今夜白，月是故乡明。<br>有弟皆分散，无家问死生。<br>寄书长不达，况乃未休兵。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="江南春"><a href="#江南春" class="headerlink" title="江南春"></a>江南春</h2><p>杜牧 [唐]<br>千里莺啼绿映红，水村山郭酒旗风。<br>南朝四百八十寺，多少楼台烟雨中。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="泊秦淮"><a href="#泊秦淮" class="headerlink" title="泊秦淮"></a>泊秦淮</h2><p>杜牧 [唐]<br>烟笼寒水月笼沙，夜泊秦淮近酒家。<br>商女不知亡国恨，隔江犹唱后庭花。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="山行"><a href="#山行" class="headerlink" title="山行"></a>山行</h2><p>杜牧 [唐]<br>远上寒山石径斜，白云生处有人家。<br>停车坐爱枫林晚，霜叶红于二月花。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="四时田园杂兴"><a href="#四时田园杂兴" class="headerlink" title="四时田园杂兴"></a>四时田园杂兴</h2><p>范成大 [宋]<br>梅子金黄杏子肥，麦花雪白菜花稀。<br>日长篱落无人过，惟有蜻蜓蛱蝶飞。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="符读书城南"><a href="#符读书城南" class="headerlink" title="符读书城南"></a>符读书城南</h2><p>韩愈 [唐]<br>木之就规矩，在梓匠轮舆。人之能为人，由腹有诗书。<br>诗书勤乃有，不勤腹空虚。欲知学之力，贤愚同一初。<br>由其不能学，所入遂异闾。两家各生子，提孩巧相如。<br>少长聚嬉戏，不殊同队鱼。年至十二三，头角稍相疏。<br>二十渐乖张，清沟映污渠。三十骨骼成，乃一龙一猪。<br>飞黄腾踏去，不能顾蟾蜍。一为马前卒，鞭背生虫蛆。<br>一为公与相，潭潭府中居。问之何因尔，学与不学欤。<br>金璧虽重宝，费用难贮储。学问藏之身，身在则有余。<br>君子与小人，不系父母且。不见公与相，起身自犁鉏。<br>不见三公后，寒饥出无驴。文章岂不贵，经训乃菑畲。<br>潢潦无根源，朝满夕已除。人不通古今，马牛而襟裾。<br>行身陷不义，况望多名誉。时秋积雨霁，新凉入郊墟。<br>灯火稍可亲，简编可卷舒。岂不旦夕念，为尔惜居诸。<br>恩义有相夺，作诗劝踌躇。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="早春呈水部张十八员外"><a href="#早春呈水部张十八员外" class="headerlink" title="早春呈水部张十八员外"></a>早春呈水部张十八员外</h2><p>韩愈 [唐]<br>天街小雨润如酥，草色遥看近却无。<br>最是一年春好处，绝胜烟柳满皇都。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="寄旧同年"><a href="#寄旧同年" class="headerlink" title="寄旧同年"></a>寄旧同年</h2><p>何扶 [唐]<br>金榜题名墨尚新，今年依旧去年春。<br>花间每被红妆问，何事重来只一人。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="回乡偶书"><a href="#回乡偶书" class="headerlink" title="回乡偶书"></a>回乡偶书</h2><p>贺知章 [唐]<br>少小离家老大回，乡音无改鬓毛衰。<br>儿童相见不相识，笑问客从何处来。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="岁末到家"><a href="#岁末到家" class="headerlink" title="岁末到家"></a>岁末到家</h2><p>蒋士铨 [清]<br>爱子心无尽，归家喜及辰。<br>寒衣针线密，家信墨痕新。<br>见面怜清瘦，呼儿问苦辛。<br>低徊愧人子，不敢叹风尘。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="渡荆门送别"><a href="#渡荆门送别" class="headerlink" title="渡荆门送别"></a>渡荆门送别</h2><p>李白 [唐]<br>渡远荆门外，来从楚国游。<br>山随平野尽，江入大荒流。<br>月下飞天镜，云生结海楼。<br>仍怜故乡水，万里送行舟。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="黄鹤楼送孟浩然之广陵"><a href="#黄鹤楼送孟浩然之广陵" class="headerlink" title="黄鹤楼送孟浩然之广陵"></a>黄鹤楼送孟浩然之广陵</h2><p>李白 [唐]<br>故人西辞黄鹤楼，烟花三月下扬州。<br>孤帆远影碧空尽，唯见长江天际流。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="朗月行"><a href="#朗月行" class="headerlink" title="朗月行"></a>朗月行</h2><p>李白 [唐]<br>朗月出东山，照我绮窗前。<br>窗中多佳人，被服妖且妍。<br>靓妆坐帷里，当户弄清弦。<br>鬓夺卫女迅，体绝飞燕先。<br>为君歌一曲，当作《朗月篇》。<br>酒至颜自解，声和心亦宣。<br>千金何足重，所存意气间</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="塞下曲"><a href="#塞下曲" class="headerlink" title="塞下曲"></a>塞下曲</h2><p>李白 [唐]<br>五月天山雪，无花只有寒。<br>笛中闻折柳，春色未曾看。<br>晓战随金鼓，宵眠抱玉鞍。<br>愿将腰下剑，直为斩楼兰。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="上李邕"><a href="#上李邕" class="headerlink" title="上李邕"></a>上李邕</h2><p>李白 [唐]<br>大鹏一日同风起，扶摇直上九万里。<br>假令风歇时下来，犹能簸却沧溟水。<br>世人见我恒殊调，闻余大言皆冷笑。<br>宣父犹能畏后生，丈夫未可轻年少。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="望天门山"><a href="#望天门山" class="headerlink" title="望天门山"></a>望天门山</h2><p>李白 [唐]<br>天门中断楚江开，碧水东流至此回。<br>两岸青山相对出，孤帆一片日边来。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="闻王昌龄左迁龙标遥有此寄"><a href="#闻王昌龄左迁龙标遥有此寄" class="headerlink" title="闻王昌龄左迁龙标遥有此寄"></a>闻王昌龄左迁龙标遥有此寄</h2><p>李白 [唐]<br>杨花落尽子规啼，闻道龙标过五溪。<br>我寄愁心与明月，随君直到夜郎西。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="月下独酌四首·其一"><a href="#月下独酌四首·其一" class="headerlink" title="月下独酌四首·其一"></a>月下独酌四首·其一</h2><p>李白 [唐]<br>花间一壶酒，独酌无相亲。<br>举杯邀明月，对影成三人。<br>月既不解饮，影徒随我身。<br>暂伴月将影，行乐须及春。<br>我歌月徘徊，我舞影零乱。<br>醒时相交欢，醉后各分散。<br>永结无情游，相期邈云汉。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="长干行·其一"><a href="#长干行·其一" class="headerlink" title="长干行·其一"></a>长干行·其一</h2><p>李白 [唐]<br>妾发初覆额，折花门前剧。<br>郎骑竹马来，绕床弄青梅。<br>同居长干里，两小无嫌猜，<br>十四为君妇，羞颜未尝开。<br>低头向暗壁，千唤不一回。<br>十五始展眉，愿同尘与灰。<br>常存抱柱信，岂上望夫台。<br>十六君远行，瞿塘滟滪堆。<br>五月不可触，猿声天上哀。<br>门前迟行迹，一一生绿苔。<br>苔深不能扫，落叶秋风早。<br>八月胡蝶来，双飞西园草。<br>感此伤妾心，坐愁红颜老。<br>早晚下三巴，预将书报家。<br>相迎不道远，直至长风沙。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="南陵别儿童入京"><a href="#南陵别儿童入京" class="headerlink" title="南陵别儿童入京"></a>南陵别儿童入京</h2><p>李白 [唐]<br>白酒新熟山中归，黄鸡啄黍秋正肥。<br>呼童烹鸡酌白酒，儿女嬉笑牵人衣。<br>高歌取醉欲自慰，起舞落日争光辉。<br>游说万乘苦不早，著鞭跨马涉远道。<br>会稽愚妇轻买臣，余亦辞家西入秦。<br>仰天大笑出门去，我辈岂是蓬蒿人。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="断弦曲"><a href="#断弦曲" class="headerlink" title="断弦曲"></a>断弦曲</h2><p>李东阳 [明]<br>晨听焦桐声，夜闻断弦音。<br>阿女有父资，家学在一琴。<br>生书五经石，死给十吏札。<br>阿女有父能，八分乃遗法。<br>司徒坐上叹，胡雏别时哭。<br>阿女有父情，情钟为谁笃。<br>有书何必教，有女翻为辱。<br>君看筍爽女，一死万事足。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="金铜仙人辞汉歌"><a href="#金铜仙人辞汉歌" class="headerlink" title="金铜仙人辞汉歌"></a>金铜仙人辞汉歌</h2><p>李贺 [唐]<br>茂陵刘郎秋风客，夜闻马嘶晓无迹。<br>画栏桂树悬秋香，三十六宫土花碧。<br>魏官牵车指千里，东关酸风射眸子。<br>空将汉月出宫门，忆君清泪如铅水。<br>衰兰送客咸阳道，天若有情天亦老。<br>携盘独出月荒凉，渭城已远波声小。</p>
+
+</blockquote>
+
+<hr>
+<blockquote class="blockquote-center">
+<h2 id="风"><a href="#风" class="headerlink" title="风"></a>风</h2><p>李峤 [唐]<br>解落三秋叶，能开二月花。<br>过江千尺浪，入竹万竿斜。</p>
 
 </blockquote>
 <script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.7.0/dist/mindmap.min.css">]]></content>
