@@ -1,0 +1,131 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+    <title>核酸疫苗服务查询</title>
+</head>
+
+<body>
+
+    <div style="background-color: white; margin: 25px;">
+        <div style="text-align: center;">
+            <img style="width:95%" src="./title.png">
+            <img class="head" src="./head.png">
+        </div>
+
+        <table>
+            <tr>
+                <td class="key">
+                    姓名：
+                </td>
+                <td>
+                    郝**
+                </td>
+            </tr>
+            <tr>
+                <td class="key">
+                    身份证号：
+                </td>
+                <td>
+                    14**************16
+                </td>
+            </tr>
+        </table>
+
+        <div class="spliter"></div>
+
+        <div class="result">
+            阴性
+        </div>
+        <div style="color: rgb(110,193,140); font-size: 18px; text-align: center; margin: 10px;">
+            距离本次检测已过1天 <i class="fa fa-question-circle-o" aria-hidden="true"></i>
+        </div>
+        <table>
+            <tr>
+                <td class="key">核酸检测机构</td>
+                <td>左家庄社区卫生服务中心（仅限应急使用）</td>
+            </tr>
+            <tr>
+                <td class="key">核酸检测时间</td>
+                <td>2022-01-30 19:28:00</td>
+            </tr>
+        </table>
+
+        <div class="spliter"></div>
+
+        <table>
+            <tr style="color: rgb(115,158,204);">
+                <td>
+                    导出或打印检测报告
+                </td>
+                <td style="text-align: right;">
+                    历史检测结果查询
+                </td>
+            </tr>
+        </table>
+        <div class="spliter"></div>
+        <div style="font-size: 10px; color: rgb(166, 166, 166);">
+            本电子报告与医院或其他检测机构提供的纸质报告具有同等效力。
+        </div>
+    </div>
+</body>
+
+<style>
+    body {
+        background-image: linear-gradient(rgb(73, 145, 239) 10%, white 20%, white 50%);
+    }
+
+    tr {
+        width: 100%;
+        min-width: 100%;
+        margin-bottom: 10px;
+    }
+
+    td {
+        width: 50%;
+        vertical-align: top;
+    }
+
+    .key {
+        color: rgb(166, 166, 166);
+    }
+
+    .head {
+        width: 200px;
+        height: 200px;
+        margin: 15px;
+    }
+
+    .spliter {
+        width: 90%;
+        margin: 15px 15px;
+        height: 1px;
+        background-color: rgba(230, 230, 230, 180);
+    }
+
+    @keyframes flash {
+        from {
+            color: rgb(110, 193, 140, 255);
+        }
+
+        to {
+            color: rgb(110, 193, 140, 0);
+        }
+    }
+
+    .result {
+        color: rgb(110, 193, 140);
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+        animation-name: flash;
+        animation-duration: 0.4s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+    }
+</style>
+
+</html>

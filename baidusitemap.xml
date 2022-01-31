@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://haork.github.io/2022/01/30/elasticsearch/Lucene/</loc>
+    <lastmod>2022-01-31</lastmod>
+  </url>
+  <url>
     <loc>https://haork.github.io/2021/12/16/other/%E7%BA%A2%E6%9D%8F%E6%9D%AF/</loc>
-    <lastmod>2021-12-26</lastmod>
+    <lastmod>2022-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://haork.github.io/2021/12/16/english/%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2022-01-31</lastmod>
   </url>
   <url>
     <loc>https://haork.github.io/2021/12/04/stock/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/%E7%AC%AC%E4%B8%80%E7%AB%A0/</loc>
