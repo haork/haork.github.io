@@ -1,0 +1,90 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>通信行程卡</title>
+</head>
+
+<body>
+    <div class="app">
+        <div style="color: rgb(252,252,252); font-size: 30px; font-weight: bold;">通信大数据行程卡</div>
+        <div style="color: rgb(252,252,252); ">疫情防控，人人有责</div>
+        <div class="content">
+            <div style="background-color: rgb(221,237,226); padding: 10px; border-radius: 15px 15px 0px 0px;">
+                <div style="color: rgb(111,159,128);">请收下绿色行程卡</div>
+            </div>
+            <div style="font-size: 17px; font-weight: bold; margin: 10px;">158****0305的动态行程卡</div>
+            <div style="color: rgb(152,152,152); font-size: 18px; font-weight: bold;">更新于：2022.01.31 14:31:28</div>
+            <div>
+                <img class="arrow" src="./arrow.png">
+            </div>
+            <div class="spliter"></div>
+            <div class="target"><span style="color: rgb(149,149,149);">您于前14天内到达或途径：</span>太原市,晋中市</div>
+        </div>
+        <div style="color: rgb(252,252,252); font-size: 10px;">
+            结果包含您在前14天内到访的国家（地区）与停留4小时以上的国内城市<br />
+            色卡仅对到访地作提醒，不关联健康状况
+        </div>
+        <div class="footer">
+            一证通查来了！立即点击进入
+            <div style="width: 200px; background-color: black; color: rgb(240,240,240); border-radius: 5px;">
+                全国移动电话卡“一证通查" <br />
+                防范诈骗，包含你我
+            </div>
+        </div>
+    </div>
+</body>
+<style>
+    body {
+        background-color: rgb(103, 161, 113);
+        text-align: center;
+    }
+
+    .app {
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+    }
+
+    .content {
+        width: 300px;
+        height: 450px;
+        background-color: white;
+        border-radius: 15px;
+    }
+
+    @keyframes scale {
+        from {
+            transform: scale(0.8, 0.8);
+        }
+
+        to {
+            transform: scale(1, 1);
+        }
+    }
+
+    .arrow {
+        margin: 30px;
+        animation-name: scale;
+        animation-duration: 0.8s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+    }
+
+    .spliter {
+        background-color: rgb(220, 220, 200);
+        width: 95%;
+        height: 1px;
+    }
+
+    .footer {
+        display: none;
+        align-self: center;
+        position: absolute;
+        bottom: 0px;
+    }
+</style>
+
+</html>
